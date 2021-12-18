@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Oleg\source\repos\Matveev_lab1\Source.c(9,12): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Oleg\source\repos\Matveev_lab1\Source.c(32,25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Oleg\source\repos\Matveev_lab1\Source.c(119,52): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Oleg\source\repos\Matveev_lab1\Source.c(119,1): warning C4305: инициализация: усечение из "double" в "float"
+  Matveev_lab1.vcxproj -> C:\Users\Oleg\source\repos\Matveev_lab1\Debug\Matveev_lab1.exe
